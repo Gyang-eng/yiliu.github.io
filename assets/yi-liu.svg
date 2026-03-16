@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder for Yi Liu</title>
+  <desc id="desc">Stylized placeholder profile image with initials YL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d7e4ff"/>
+      <stop offset="100%" stop-color="#f0f4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="295" r="150" fill="#f8d8c5"/>
+  <path d="M220 620c25-130 120-190 180-190s155 60 180 190" fill="#1f2430"/>
+  <path d="M250 280c15-90 85-145 150-145 70 0 125 40 150 120-45-35-120-50-190-35-55 12-90 35-110 60z" fill="#2f3442"/>
+  <text x="400" y="745" text-anchor="middle" font-size="72" font-family="Arial, sans-serif" fill="#3249d3">Yi Liu</text>
+</svg>
