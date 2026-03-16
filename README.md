@@ -10,3 +10,8 @@ In **Settings → Pages**, set **Source** to **GitHub Actions**.
 
 This avoids branch-source confusion (for example, when working on non-`main` branches)
 and makes deployment status visible in the **Actions** tab.
+
+## Search indexing
+To improve discoverability in search engines, this repository now includes:
+- `robots.txt` allowing crawling and referencing the sitemap.
+- `sitemap.xml` listing site URLs for indexing.
